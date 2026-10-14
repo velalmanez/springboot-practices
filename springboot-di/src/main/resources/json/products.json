@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Xbox Series X",
+    "price": 63
+  },
+  {
+    "id": 2,
+    "name": "Play Station 5",
+    "price": 178
+  },
+  {
+    "id": 3,
+    "name": "Nintendo Switch",
+    "price": 37
+  },
+  {
+    "id": 4,
+    "name": "Nintendo Switch OLED",
+    "price": 102
+  }
+]
